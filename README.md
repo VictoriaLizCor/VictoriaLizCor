@@ -14,7 +14,7 @@
 
 ##  💻 Programming lenguages
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-	<div align="right">
+	<div align="left">
 		<a href="https://github.com/VictoriaLizCor">
 			<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Cpp">
 		</a>
@@ -28,7 +28,7 @@
 			<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 		</a>
 	</div>
-	<div align="left">
+	<div align="rigth">
 		<a href="https://github.com/VictoriaLizCor">
 			<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 		</a>
