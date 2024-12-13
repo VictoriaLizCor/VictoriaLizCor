@@ -5,7 +5,7 @@
 		</a>
 		<div align="center" style="display: inline-block; position: relative; left:0;margin-left: -10px;bottom:0 ">
 			<a href="https://42wolfsburg.de/de/" target="_blank" rel="noreferrer" >
-				<img width="50%" src="https://42wolfsburg.de/wp-content/uploads/2023/07/Warstwa_1-1.svg" alt="42" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(0.70)'" onmouseout="this.style.transform='scale(1)'">
+				<img width="40%" src="https://42wolfsburg.de/wp-content/uploads/2023/07/Warstwa_1-1.svg" alt="42" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(0.70)'" onmouseout="this.style.transform='scale(1)'">
 			</a>
 		</div>
 	</div>
