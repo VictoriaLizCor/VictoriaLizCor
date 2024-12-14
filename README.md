@@ -55,14 +55,6 @@
     	<img src="https://github-readme-stats.vercel.app/api?username=lilizarr&layout=compact&hide=roff&show_icons=true&theme=vue-dark&hide_border=true" alt="Stat" />
   </a>
 </div>
-<div>
-	<a href="https://github.com/lilizarr">
- 		<img src="https://github-readme-stats.vercel.app/api?username=lilizarr&show_icons=true&hide_title=true&theme=transparent">
-	</a>
-	<a href="https://github.com/VictoriaLizCor">
- 		<img src="https://github-readme-stats.vercel.app/api?username=VictoriaLizCor&show_icons=true&hide_title=true&theme=transparent">
-	</a>
-</div>
 <!--
 **VictoriaLizCor/VictoriaLizCor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
