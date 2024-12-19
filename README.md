@@ -48,11 +48,11 @@
   </a>
 </div>
 <div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/VictoriaLizCor">
+  <a href="https://github.com/lilizarr">
     	<img src="https://github-readme-stats.vercel.app/api?username=lilizarr&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&card_width=300" alt="Languages" />
   </a>
   <a href="https://github.com/lilizarr">
-    	<img src="https://github-readme-stats.vercel.app/api?username=lilizarr&layout=compact&hide=roff&show_icons=true&theme=vue-dark&hide_border=true" alt="Stat" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilizarr&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true" alt="Stat" />
   </a>
 </div>
 <!--
