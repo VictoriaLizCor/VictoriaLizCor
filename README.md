@@ -12,7 +12,7 @@
 </div>
 </br>
 
-##  💻 Programming lenguages
+##  💻 Programming languages
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
 	<div align="left">
 		<a href="https://github.com/VictoriaLizCor">
