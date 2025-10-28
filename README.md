@@ -1,7 +1,7 @@
 <div align="center" style="display: flex; justify-content: center;">
 	<div>
 		<a href="https://www.linkedin.com/in/victoria-lizarraga-cortes/" target="_blank" rel="noreferrer">
-			<img width="50%" src="https://avatars.githubusercontent.com/u/89598793?v=4" alt="VictoriaLizCorBanner" style="border-radius: 50%;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" >
+			<img width="30%" src="https://avatars.githubusercontent.com/u/89598793?v=4" alt="VictoriaLizCorBanner" style="border-radius: 50%;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" >
 		</a>
 		<div align="center" style="display: inline-block; position: relative; left:0;margin-left: -10px;bottom:0 ">
 			<a href="https://42wolfsburg.de/de/" target="_blank" rel="noreferrer" >
