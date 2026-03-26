@@ -65,13 +65,13 @@
 
 | Module | Title | Description | Key Concepts |
 |---|---|---|---|
-| [cpp00](./CPP_00) | Namespaces, Classes, and Member Functions | Introduction to C++ basics with class structure and the Orthodox Canonical Form | Namespaces, Classes, Constructors, Destructors |
-| [cpp01](./CPP_01) | Memory Allocation and Pointers | Dynamic memory management and understanding heap vs. stack allocation | `new`/`delete`, Pointers, Memory Safety, References |
-| [cpp02](./CPP_02) | Ad-Hoc Polymorphism and Operator Overloading | Operator overloading for creating intuitive interfaces | Operator Overloading, `this` pointer, Const Correctness |
-| [cpp03](./CPP_03) | Inheritance | Class hierarchies, inheritance relationships, and method overriding | Base/Derived Classes, Access Modifiers, Constructor Chaining |
-| [cpp04](./CPP_04) | Subtype Polymorphism and Virtual Functions | Runtime polymorphism through virtual functions and abstract classes | Virtual Functions, Abstract Classes, Polymorphism, vtable |
-| [cpp05](./CPP_05) | Exception Handling and Advanced OOP | Robust error handling and advanced OOP patterns | Try-Catch-Throw, Static Members, Nested Classes, Friend Functions |
-| [cpp06](./CPP_06) | Type Casting | Different casting mechanisms in C++ (static, dynamic, const, reinterpret) | Static/Dynamic/Const/Reinterpret Cast, Type Safety |
-| [cpp07](./CPP_07) | Templates | Generic programming with function and class templates | Function Templates, Class Templates, Template Specialization |
-| [cpp08](./CPP_08) | Templated Containers and Iterators | Working with STL containers and their algorithms | STL Containers (Vector, List, Map, Set), Iterators, Algorithms |
-| [cpp09](./CPP_09) | Standard Template Library Comprehensive Study | Deep dive into STL components and advanced usage patterns | All STL Containers, Funct
+| [cpp00](https://github.com/VictoriaLizCor/CPP_Modules/tree/main/CPP_00) | Namespaces, Classes, and Member Functions | Introduction to C++ basics with class structure and the Orthodox Canonical Form | Namespaces, Classes, Constructors, Destructors |
+| [cpp01](https://github.com/VictoriaLizCor/CPP_Modules/tree/main/CPP_01) | Memory Allocation and Pointers | Dynamic memory management and understanding heap vs. stack allocation | `new`/`delete`, Pointers, Memory Safety, References |
+| [cpp02](https://github.com/VictoriaLizCor/CPP_Modules/tree/main/CPP_02) | Ad-Hoc Polymorphism and Operator Overloading | Operator overloading for creating intuitive interfaces | Operator Overloading, `this` pointer, Const Correctness |
+| [cpp03](https://github.com/VictoriaLizCor/CPP_Modules/tree/main/CPP_03) | Inheritance | Class hierarchies, inheritance relationships, and method overriding | Base/Derived Classes, Access Modifiers, Constructor Chaining |
+| [cpp04](https://github.com/VictoriaLizCor/CPP_Modules/tree/main/CPP_04) | Subtype Polymorphism and Virtual Functions | Runtime polymorphism through virtual functions and abstract classes | Virtual Functions, Abstract Classes, Polymorphism, vtable |
+| [cpp05](https://github.com/VictoriaLizCor/CPP_Modules/tree/main/CPP_05) | Exception Handling and Advanced OOP | Robust error handling and advanced OOP patterns | Try-Catch-Throw, Static Members, Nested Classes, Friend Functions |
+| [cpp06](https://github.com/VictoriaLizCor/CPP_Modules/tree/main/CPP_06) | Type Casting | Different casting mechanisms in C++ (static, dynamic, const, reinterpret) | Static/Dynamic/Const/Reinterpret Cast, Type Safety |
+| [cpp07](https://github.com/VictoriaLizCor/CPP_Modules/tree/main/CPP_07) | Templates | Generic programming with function and class templates | Function Templates, Class Templates, Template Specialization |
+| [cpp08](https://github.com/VictoriaLizCor/CPP_Modules/tree/main/CPP_08) | Templated Containers and Iterators | Working with STL containers and their algorithms | STL Containers (Vector, List, Map, Set), Iterators, Algorithms |
+| [cpp09](https://github.com/VictoriaLizCor/CPP_Modules/tree/main/CPP_09) | Standard Template Library Comprehensive Study | Deep dive into STL components and advanced usage patterns | All STL Containers, Funct
