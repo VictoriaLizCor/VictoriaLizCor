@@ -1,78 +1,15 @@
-<div align="center" style="display: flex; justify-content: center;">
-	<div>
-		<a href="https://www.linkedin.com/in/victoria-lizarraga-cortes/" target="_blank" rel="noreferrer">
-			<img width="30%" src="https://avatars.githubusercontent.com/u/89598793?v=4" alt="VictoriaLizCorBanner" style="border-radius: 50%;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" >
-		</a>
-		<div align="center" style="display: inline-block; position: relative; left:0;margin-left: -10px;bottom:0 ">
-			<a href="https://42wolfsburg.de/de/" target="_blank" rel="noreferrer" >
-				<img width="40%" src="https://42wolfsburg.de/wp-content/uploads/2023/07/Warstwa_1-1.svg" alt="42" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(0.70)'" onmouseout="this.style.transform='scale(1)'">
-			</a>
-		</div>
-	</div>
-</div>
-</br>
+## 42 Projects
 
-##  💻 Programming languages
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-	<div align="left">
-		<a href="https://github.com/VictoriaLizCor">
-			<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Cpp">
-		</a>
-		<a href="https://github.com/VictoriaLizCor">
-			<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=blue" alt="C">
-		</a>
-		<a href="https://github.com/VictoriaLizCor">
-			<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
-		</a>
-		<a href="https://github.com/VictoriaLizCor">
-			<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-		</a>
-	</div>
-	<div align="rigth">
-		<a href="https://github.com/VictoriaLizCor">
-			<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-		</a>
-		<a href="https://github.com/VictoriaLizCor">
-			<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black" alt="Github">
-		</a>
-	</div>
-</div>
-
-## 📊 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <a href="https://github.com/VictoriaLizCor">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictoriaLizCor&theme=vue" alt="VictoriaLizCor - Repos per Language" style="width: 48%;" />
-  </a>
-  <a href="https://github.com/VictoriaLizCor">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictoriaLizCor&theme=vue" alt="VictoriaLizCor - Stats" style="width: 48%;" />
-  </a>
-</div>
-
-## 🚀 42 Projects
-
-| Project | Description |
-|---|---|
-| [**42WOB_minishell**](https://github.com/VictoriaLizCor/42WOB_minishell) | Interactive shell implementation with command parsing, piping, redirections, and built-in command execution. |
-| [**42_philosophers**](https://github.com/VictoriaLizCor/42_philosophers) | Dining philosophers problem solved with multithreading and mutex synchronization to prevent deadlocks and data races. |
-| [**42_push_swap**](https://github.com/VictoriaLizCor/42_push_swap) | Sorting algorithm optimization that sorts integers using two stacks and a minimal set of operations. |
-| [**get_next_line**](https://github.com/VictoriaLizCor/get_next_line) | Efficient file reading utility that reads a file descriptor line by line using static variables and dynamic memory. |
-| [**ft_printf**](https://github.com/VictoriaLizCor/ft_printf) | Custom reimplementation of the C standard `printf` function supporting multiple format specifiers. |
-| [**ft_irc**](https://github.com/VictoriaLizCor/ft_irc) | Internet Relay Chat server built in C++ supporting multiple clients, channels, and standard IRC commands. |
-| [**CPP_Modules**](https://github.com/VictoriaLizCor/CPP_Modules) | Series of C++ learning modules covering object-oriented programming, templates, and advanced language concepts. |
-| [**inception**](https://github.com/VictoriaLizCor/inception) | Docker containerization project setting up a multi-service infrastructure with NGINX, WordPress, and MariaDB. |
-
-<!--
-https://www.hackerrank.com/tests/6trbli98abh/login?b=eyJ1c2VybmFtZSI6InZpY3RvcmlhLmxpemNvckBnbWFpbC5jb20iLCJwYXNzd29yZCI6IjBlY2RiNGEzIiwiaGlkZSI6dHJ1ZSwiYWNjb21tb2RhdGlvbnMiOnsiYWRkaXRpb25hbF90aW1lX3BlcmNlbnQiOjB9fQ==
-**VictoriaLizCor/VictoriaLizCor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CPP_Modules
+| Module   | Focus Area           | Key Concepts            |
+|----------|----------------------|-------------------------|
+| [CPP_00](./CPP_00) | Introduction to C++ | Syntax, Functions, Variables |
+| [CPP_01](./CPP_01) | Object-Oriented Programming | Classes, Inheritance, Polymorphism |
+| [CPP_02](./CPP_02) | Standard Template Library | Containers, Iterators, Algorithms |
+| [CPP_03](./CPP_03) | Advanced C++ Features | Templates, Exception Handling |
+| [CPP_04](./CPP_04) | File I/O | Streams, File Handling |
+| [CPP_05](./CPP_05) | Multithreading | Threads, Locks, Synchronization |
+| [CPP_06](./CPP_06) | Networking | Sockets, Protocols |
+| [CPP_07](./CPP_07) | GUI Programming | Event Handling, Widgets |
+| [CPP_08](./CPP_08) | Unit Testing | Test Frameworks, Test Cases |
+| [CPP_09](./CPP_09) | Advanced Topics | Memory Management, Design Patterns |
