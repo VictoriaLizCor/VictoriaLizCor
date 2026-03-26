@@ -59,7 +59,6 @@
 | [**ft_printf**](https://github.com/VictoriaLizCor/ft_printf) | Custom reimplementation of the C standard `printf` function supporting multiple format specifiers. |
 | [**ft_irc**](https://github.com/VictoriaLizCor/ft_irc) | Internet Relay Chat server built in C++ supporting multiple clients, channels, and standard IRC commands. |
 | [**CPP_Modules**](https://github.com/VictoriaLizCor/CPP_Modules) | Series of C++ learning modules covering object-oriented programming, templates, and advanced language concepts. |
-| [**EXAM**](https://github.com/VictoriaLizCor/EXAM) | Exam preparation projects covering 42 curriculum exercises and common algorithmic challenges. |
 | [**inception**](https://github.com/VictoriaLizCor/inception) | Docker containerization project setting up a multi-service infrastructure with NGINX, WordPress, and MariaDB. |
 
 <!--
