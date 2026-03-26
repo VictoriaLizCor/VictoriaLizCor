@@ -39,12 +39,12 @@
 </div>
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://github.com/VictoriaLizCor">
-    <img src="https://github-readme-stats.vercel.app/api?username=VictoriaLizCor&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&card_width=300&v=2" alt="VictoriaLizCorLanguages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictoriaLizCor&theme=vue" alt="VictoriaLizCor - Repos per Language" style="width: 48%;" />
   </a>
   <a href="https://github.com/VictoriaLizCor">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaLizCor&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true&v=2" alt="VictoriaLizCorStat" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictoriaLizCor&theme=vue" alt="VictoriaLizCor - Stats" style="width: 48%;" />
   </a>
 </div>
 <!--
