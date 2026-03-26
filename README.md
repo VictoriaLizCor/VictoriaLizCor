@@ -41,13 +41,12 @@
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/VictoriaLizCor">
-    	<img src="https://github-readme-stats.vercel.app/api?username=VictoriaLizCor&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&card_width=300" alt="VictoriaLizCorLanguages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=VictoriaLizCor&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&card_width=300&v=2" alt="VictoriaLizCorLanguages" />
   </a>
   <a href="https://github.com/VictoriaLizCor">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaLizCor&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true" alt="VictoriaLizCorStat" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaLizCor&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true&v=2" alt="VictoriaLizCorStat" />
   </a>
 </div>
-
 <!--
 https://www.hackerrank.com/tests/6trbli98abh/login?b=eyJ1c2VybmFtZSI6InZpY3RvcmlhLmxpemNvckBnbWFpbC5jb20iLCJwYXNzd29yZCI6IjBlY2RiNGEzIiwiaGlkZSI6dHJ1ZSwiYWNjb21tb2RhdGlvbnMiOnsiYWRkaXRpb25hbF90aW1lX3BlcmNlbnQiOjB9fQ==
 **VictoriaLizCor/VictoriaLizCor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
