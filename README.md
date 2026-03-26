@@ -47,6 +47,21 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictoriaLizCor&theme=vue" alt="VictoriaLizCor - Stats" style="width: 48%;" />
   </a>
 </div>
+
+## 🚀 42 Projects
+
+| Project | Description |
+|---|---|
+| [**42WOB_minishell**](https://github.com/VictoriaLizCor/42WOB_minishell) | Interactive shell implementation with command parsing, piping, redirections, and built-in command execution. |
+| [**42_philosophers**](https://github.com/VictoriaLizCor/42_philosophers) | Dining philosophers problem solved with multithreading and mutex synchronization to prevent deadlocks and data races. |
+| [**42_push_swap**](https://github.com/VictoriaLizCor/42_push_swap) | Sorting algorithm optimization that sorts integers using two stacks and a minimal set of operations. |
+| [**get_next_line**](https://github.com/VictoriaLizCor/get_next_line) | Efficient file reading utility that reads a file descriptor line by line using static variables and dynamic memory. |
+| [**ft_printf**](https://github.com/VictoriaLizCor/ft_printf) | Custom reimplementation of the C standard `printf` function supporting multiple format specifiers. |
+| [**ft_irc**](https://github.com/VictoriaLizCor/ft_irc) | Internet Relay Chat server built in C++ supporting multiple clients, channels, and standard IRC commands. |
+| [**CPP_Modules**](https://github.com/VictoriaLizCor/CPP_Modules) | Series of C++ learning modules covering object-oriented programming, templates, and advanced language concepts. |
+| [**EXAM**](https://github.com/VictoriaLizCor/EXAM) | Exam preparation projects covering 42 curriculum exercises and common algorithmic challenges. |
+| [**inception**](https://github.com/VictoriaLizCor/inception) | Docker containerization project setting up a multi-service infrastructure with NGINX, WordPress, and MariaDB. |
+
 <!--
 https://www.hackerrank.com/tests/6trbli98abh/login?b=eyJ1c2VybmFtZSI6InZpY3RvcmlhLmxpemNvckBnbWFpbC5jb20iLCJwYXNzd29yZCI6IjBlY2RiNGEzIiwiaGlkZSI6dHJ1ZSwiYWNjb21tb2RhdGlvbnMiOnsiYWRkaXRpb25hbF90aW1lX3BlcmNlbnQiOjB9fQ==
 **VictoriaLizCor/VictoriaLizCor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
