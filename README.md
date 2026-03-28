@@ -1,18 +1,29 @@
+<!--
 <div align="center" style="display: flex; justify-content: center;">
 	<div>
 		<a href="https://www.linkedin.com/in/victoria-lizarraga-cortes/" target="_blank" rel="noreferrer">
 			<img width="30%" src="https://avatars.githubusercontent.com/u/89598793?v=4" alt="VictoriaLizCorBanner" style="border-radius: 50%;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" >
 		</a>
-		<div align="center" style="display: inline-block; position: relative; left:0;margin-left: -10px;bottom:0 ">
-			<a href="https://42wolfsburg.de/de/" target="_blank" rel="noreferrer" >
-				<img width="40%" src="https://42wolfsburg.de/wp-content/uploads/2023/07/Warstwa_1-1.svg" alt="42" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(0.70)'" onmouseout="this.style.transform='scale(1)'">
-			</a>
-		</div>
 	</div>
 </div>
 </br>
+-->
+<div align="center">
+  <a href="https://www.linkedin.com/in/victoria-lizarraga-cortes/" target="_blank" rel="noreferrer">
+    <img
+      src="https://avatars.githubusercontent.com/u/89598793?v=4"
+      width="170"
+      alt="@VictoriaLizCor"
+      style="border-radius: 50%; border: 3px solid #e5e7eb; box-shadow: 0 6px 18px rgba(0,0,0,0.12);"
+    />
+  </a>
+  <h1 style="margin-top: 14px; margin-bottom: 6px;">@VictoriaLizCor</h1>
+  <p style="margin-top: 0; color: #6b7280;">
+    Software Engineer • C/C++ • Automation • DevOps
+  </p>
+</div>
+</br>
 
----
 I’m a software engineer with experience building **automation & tooling** in **C/C++** and **Python**, with hands-on work across **virtual prototypes**, **motion capture**, and **EEG/TMS** data processing.
 
 - **Current focus:** MSTest, Lua, C++ testing frameworks, CI pipelines, Docker, CMake  
@@ -68,6 +79,13 @@ I’m a software engineer with experience building **automation & tooling** in *
 </div>
 
 ## 🚀 42 Projects
+<div align="center">
+  <a href="https://42wolfsburg.de/de/" target="_blank" rel="noreferrer">
+    <img width="220" src="https://42wolfsburg.de/wp-content/uploads/2023/07/Warstwa_1-1.svg" alt="42 Wolfsburg" />
+  </a>
+</div>
+
+<br />
 
 | Project | Description |
 |---|---|
