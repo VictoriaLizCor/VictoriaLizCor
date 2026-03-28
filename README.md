@@ -12,31 +12,50 @@
 </div>
 </br>
 
-##  💻 Programming languages
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-	<div align="left">
-		<a href="https://github.com/VictoriaLizCor">
-			<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Cpp">
-		</a>
-		<a href="https://github.com/VictoriaLizCor">
-			<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=blue" alt="C">
-		</a>
-		<a href="https://github.com/VictoriaLizCor">
-			<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
-		</a>
-		<a href="https://github.com/VictoriaLizCor">
-			<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-		</a>
-	</div>
-	<div align="rigth">
-		<a href="https://github.com/VictoriaLizCor">
-			<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-		</a>
-		<a href="https://github.com/VictoriaLizCor">
-			<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black" alt="Github">
-		</a>
-	</div>
-</div>
+---
+I’m a software engineer with experience building **automation & tooling** in **C/C++** and **Python**, with hands-on work across **virtual prototypes**, **motion capture**, and **EEG/TMS** data processing.
+
+- **Current focus:** MSTest, Lua, C++ testing frameworks, CI pipelines, Docker, CMake  
+- **Interests:** QA, embedded systems, performance, developer tooling, data/signal processing  
+- **Languages:** Spanish (native), English (C1 – IELTS 7.5), German (B1, Goethe), Japanese (JLPT N4)
+---
+
+## Experience
+
+- **Industry:** Test automation at **Robert Bosch GmbH** (Digital Design & Integration) and Motion Capture/Virtual Tech at **Volkswagen Commercial Vehicles R&D**
+- **Research:** EEG/TMS pipelines and experiments (**MATLAB + tooling**) in neurophysiology contexts
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Frameworks / Libraries
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Eigen](https://img.shields.io/badge/Eigen-47848F?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Psychtoolbox](https://img.shields.io/badge/Psychtoolbox-6A1B9A?style=for-the-badge&logo=academia&logoColor=white)
+![jsPsych](https://img.shields.io/badge/jsPsych-1E88E5?style=for-the-badge&logo=javascript&logoColor=white)
+
+### Tools / DevOps
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual%20Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+
+- nmake, Makefile, Arduino
 
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
