@@ -97,7 +97,7 @@ I’m a software engineer with experience building **automation & tooling** in *
 | [**ft_irc**](https://github.com/VictoriaLizCor/ft_irc) | Internet Relay Chat server built in C++ supporting multiple clients, channels, and standard IRC commands. |
 | [**CPP_Modules**](https://github.com/VictoriaLizCor/CPP_Modules) | Series of 9 C++ modules covering OOP, memory management, operator overloading, inheritance, polymorphism, templates, and STL. |
 | [**inception**](https://github.com/VictoriaLizCor/inception) | Docker containerization project setting up a multi-service infrastructure with NGINX, WordPress, and MariaDB. |
-| [**FT-Transcendence**]([https://github.com/VictoriaLizCor/inception](https://github.com/FT-Transcendence-February-2025/microservices)) | FT-Transcendence is a microservices-based full-stack web application built around online Pong gameplay. |
+| [**FT-Transcendence**](https://github.com/FT-Transcendence-February-2025/microservices) | FT-Transcendence is a microservices-based full-stack web application built around online Pong gameplay. |
 ### 📚 CPP_Modules Breakdown
 
 | Module | Title | Description | Key Concepts |
