@@ -28,13 +28,13 @@ I’m a software engineer with experience building **automation & tooling** in *
 
 - **Current focus:** MSTest, Lua, C++ testing frameworks, CI pipelines, Docker, CMake  
 - **Interests:** QA, embedded systems, performance, developer tooling, data/signal processing  
-- **Languages:** Spanish (native), English (C1 – IELTS 7.5), German (B1, Goethe), Japanese (JLPT N4)
+- **Languages:** 🇲🇽 Spanish (native), 🇬🇧 English (C1 – IELTS 7.5), 🇩🇪 German (B1, Goethe), 🇯🇵 Japanese (JLPT N4) 
 ---
 
 ## Experience
 
 - **Industry:** Test automation at **Robert Bosch GmbH** (Digital Design & Integration) and Motion Capture/Virtual Tech at **Volkswagen Commercial Vehicles R&D**
-- **Research:** EEG/TMS pipelines and experiments (**MATLAB + tooling**) in neurophysiology contexts
+- **Research:** EEG/TMS pipelines and experiments (**MATLAB + tooling**) in neurophysiology(BUAP, Mexico) contexts
 
 ---
 
